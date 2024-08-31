@@ -12,7 +12,7 @@ My personal zmk config
 >> possibly using a Shift register
 
 2. Unnamed (best fake planned)
-> Kyria with Num row
+> Elora plate (Kyria with Num row)
 > Possibly as a unibody board sharing the single MCU
 > Wireless Xiao BLE
 
